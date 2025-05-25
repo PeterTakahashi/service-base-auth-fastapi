@@ -1,7 +1,7 @@
 [project]
-name = "service-base-fastapi"
+name = "service-base-auth-fastapi"
 version = "0.1.0"
-description = "Add your description here"
+description = "A FastAPI-based authentication service with PostgreSQL, using FastAPI Users, SQLAlchemy, and Alembic."
 readme = "README.md"
 requires-python = ">=3.11.11"
 dependencies = [
